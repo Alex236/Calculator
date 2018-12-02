@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\Calculator\Calculator\bin\Release\Calculator.exe.config
+C:\Users\Alex\Desktop\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\Alex\Desktop\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\Alex\Desktop\Calculator\Calculator\obj\Release\Calculator.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Calculator\Calculator\obj\Release\MainWindow.g.cs
+C:\Users\Alex\Desktop\Calculator\Calculator\obj\Release\App.g.cs
+C:\Users\Alex\Desktop\Calculator\Calculator\obj\Release\Calculator_MarkupCompile.cache
+C:\Users\Alex\Desktop\Calculator\Calculator\obj\Release\Calculator_MarkupCompile.lref
+C:\Users\Alex\Desktop\Calculator\Calculator\obj\Release\MainWindow.baml
+C:\Users\Alex\Desktop\Calculator\Calculator\obj\Release\Calculator.g.resources
+C:\Users\Alex\Desktop\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\Alex\Desktop\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Calculator\Calculator\obj\Release\Calculator.exe
+C:\Users\Alex\Desktop\Calculator\Calculator\obj\Release\Calculator.pdb

@@ -24,5 +24,11 @@ namespace Calculator
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Calculate calculate = new Calculate();
+            Output.Content = calculate.Evaluate(UserInput.Text);
+        }
     }
 }

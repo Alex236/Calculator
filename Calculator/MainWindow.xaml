@@ -5,8 +5,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Calculator"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Calculator" Height="300" Width="600">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Label Content="Input expression to calculate" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15"/>
+        <TextBox Name="UserInput" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1" FontSize="15" Width="500" HorizontalContentAlignment="Center"/>
+        <Button Content="Calculate" Grid.Row="2" Width="200" Height="30" Click="Button_Click"/>
+        <Label Name="Output" FontSize="15" VerticalAlignment="Top" Grid.Row="3" HorizontalAlignment="Center"/>
     </Grid>
 </Window>
